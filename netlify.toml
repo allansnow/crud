@@ -1,4 +1,4 @@
 [[redirects]]
 from = "/*"
-to = "/todoList.html"
+to = "/register.html"
 status = 200
